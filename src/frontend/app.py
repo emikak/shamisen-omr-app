@@ -54,7 +54,7 @@ with st.sidebar:
 
 
 # 音楽ファイルの指定
-music_file = "./data/sakura_song.mp3"
+music_file = "./sakura_song.mp3"
 
 if score:
     st.markdown("##### タイトル：さくらさくら")
